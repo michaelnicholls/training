@@ -11,19 +11,6 @@
     <LDBNAME>D$S</LDBNAME>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
-   <TPOOL>
-    <item>
-     <ID>I</ID>
-     <KEY>001</KEY>
-     <ENTRY>Total Truck Weight:</ENTRY>
-     <LENGTH>29</LENGTH>
-    </item>
-    <item>
-     <ID>R</ID>
-     <ENTRY>Demonstration: Interfaces</ENTRY>
-     <LENGTH>28</LENGTH>
-    </item>
-   </TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>

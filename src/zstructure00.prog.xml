@@ -10,25 +10,6 @@
     <LDBNAME>D$S</LDBNAME>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
-   <TPOOL>
-    <item>
-     <ID>I</ID>
-     <KEY>NOF</KEY>
-     <ENTRY>No flights found</ENTRY>
-     <LENGTH>26</LENGTH>
-    </item>
-    <item>
-     <ID>I</ID>
-     <KEY>OTH</KEY>
-     <ENTRY>Some other error</ENTRY>
-     <LENGTH>26</LENGTH>
-    </item>
-    <item>
-     <ID>R</ID>
-     <ENTRY>example with structures</ENTRY>
-     <LENGTH>23</LENGTH>
-    </item>
-   </TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
