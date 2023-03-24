@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZMICHAEL_DEBUG</NAME>
+    <NAME>Z99_INTERFACE</NAME>
     <DBAPL>S</DBAPL>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
@@ -14,20 +14,14 @@
    <TPOOL>
     <item>
      <ID>I</ID>
-     <KEY>T01</KEY>
-     <ENTRY>Finished</ENTRY>
-     <LENGTH>18</LENGTH>
-    </item>
-    <item>
-     <ID>I</ID>
-     <KEY>T02</KEY>
-     <ENTRY>Not Quite Finished</ENTRY>
-     <LENGTH>28</LENGTH>
+     <KEY>001</KEY>
+     <ENTRY>Total Truck Weight:</ENTRY>
+     <LENGTH>29</LENGTH>
     </item>
     <item>
      <ID>R</ID>
-     <ENTRY>Test Program for Debugging</ENTRY>
-     <LENGTH>26</LENGTH>
+     <ENTRY>Demonstration: Interfaces</ENTRY>
+     <LENGTH>28</LENGTH>
     </item>
    </TPOOL>
   </asx:values>

@@ -3,10 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZMICHAEL_DEBUG</NAME>
+    <NAME>ZSTRUCTURE99</NAME>
     <DBAPL>S</DBAPL>
     <SUBC>1</SUBC>
-    <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
     <LDBNAME>D$S</LDBNAME>
     <UCCHECK>X</UCCHECK>
@@ -14,20 +13,20 @@
    <TPOOL>
     <item>
      <ID>I</ID>
-     <KEY>T01</KEY>
-     <ENTRY>Finished</ENTRY>
-     <LENGTH>18</LENGTH>
+     <KEY>NOF</KEY>
+     <ENTRY>No flights found</ENTRY>
+     <LENGTH>26</LENGTH>
     </item>
     <item>
      <ID>I</ID>
-     <KEY>T02</KEY>
-     <ENTRY>Not Quite Finished</ENTRY>
-     <LENGTH>28</LENGTH>
+     <KEY>OTH</KEY>
+     <ENTRY>Some other error</ENTRY>
+     <LENGTH>26</LENGTH>
     </item>
     <item>
      <ID>R</ID>
-     <ENTRY>Test Program for Debugging</ENTRY>
-     <LENGTH>26</LENGTH>
+     <ENTRY>example with structures</ENTRY>
+     <LENGTH>23</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
